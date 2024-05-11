@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1288917478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3424b802fbb951708bbe5e4478d1b912
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ColaVideo.mp4
+Dependencies: []
